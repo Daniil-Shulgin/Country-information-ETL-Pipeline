@@ -31,7 +31,7 @@ This project is a complete data pipeline (ETL) that collects country information
 4. **Run ETL Pipeline**
     ```bash
 
-    pip install -r requirements.txt
+    python pipeline/ETL_pipeline.py
     
     ```
 5. **Run Visualization**
